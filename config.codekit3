@@ -1305,16 +1305,11 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/assets/js/jquery-2.1.4.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/docs/assets/js/jquery-2.1.4.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
+	"/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/docs",
+		"oF": 0
 		},
 	"/index.html": {
 		"cB": 0,
@@ -1354,7 +1349,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-punDog",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 577120862.20446098
+	"lastBuiltDate": 577134512.54127896
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
