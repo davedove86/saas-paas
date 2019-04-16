@@ -17,7 +17,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/_fonts.css",
+		"oAP": "/assets/css/1-tools/_fonts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -30,7 +30,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/_normalize.css",
+		"oAP": "/assets/css/1-tools/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -43,7 +43,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/_vars.css",
+		"oAP": "/assets/css/1-tools/_vars.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -56,7 +56,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/_bourbon-deprecated-upcoming.css",
+		"oAP": "/assets/css/1-tools/bourbon/_bourbon-deprecated-upcoming.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -69,7 +69,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/_bourbon.css",
+		"oAP": "/assets/css/1-tools/bourbon/_bourbon.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -82,7 +82,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_border-color.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_border-color.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -95,7 +95,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_border-radius.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -108,7 +108,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_border-style.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_border-style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -121,7 +121,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_border-width.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_border-width.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -134,7 +134,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_buttons.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -147,7 +147,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_clearfix.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -160,7 +160,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_ellipsis.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_ellipsis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -173,7 +173,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_font-stacks.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_font-stacks.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -186,7 +186,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_hide-text.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_hide-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -199,7 +199,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_margin.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_margin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -212,7 +212,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_padding.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_padding.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -225,7 +225,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_position.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -238,7 +238,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_prefixer.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_prefixer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -251,7 +251,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_retina-image.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_retina-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -264,7 +264,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_size.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -277,7 +277,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_text-inputs.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_text-inputs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -290,7 +290,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_timing-functions.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_timing-functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -303,7 +303,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_triangle.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_triangle.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -316,7 +316,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/addons/_word-wrap.css",
+		"oAP": "/assets/css/1-tools/bourbon/addons/_word-wrap.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -329,7 +329,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_animation.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_animation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -342,7 +342,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_appearance.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_appearance.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -355,7 +355,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_backface-visibility.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_backface-visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -368,7 +368,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_background-image.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_background-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -381,7 +381,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_background.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -394,7 +394,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_border-image.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_border-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -407,7 +407,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_calc.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_calc.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -420,7 +420,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_columns.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -433,7 +433,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_filter.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_filter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -446,7 +446,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_flex-box.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_flex-box.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -459,7 +459,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_font-face.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_font-face.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -472,7 +472,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_font-feature-settings.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_font-feature-settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -485,7 +485,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_hidpi-media-query.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_hidpi-media-query.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -498,7 +498,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_hyphens.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_hyphens.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -511,7 +511,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_image-rendering.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_image-rendering.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -524,7 +524,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_keyframes.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_keyframes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -537,7 +537,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_linear-gradient.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_linear-gradient.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -550,7 +550,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_perspective.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_perspective.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -563,7 +563,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_placeholder.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_placeholder.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -576,7 +576,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_radial-gradient.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_radial-gradient.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -589,7 +589,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_selection.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_selection.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -602,7 +602,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_text-decoration.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_text-decoration.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -615,7 +615,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_transform.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_transform.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -628,7 +628,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_transition.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_transition.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -641,7 +641,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/css3/_user-select.css",
+		"oAP": "/assets/css/1-tools/bourbon/css3/_user-select.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -654,7 +654,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_assign-inputs.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_assign-inputs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -667,7 +667,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_contains-falsy.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_contains-falsy.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -680,7 +680,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_contains.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_contains.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -693,7 +693,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_is-length.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_is-length.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -706,7 +706,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_is-light.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_is-light.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -719,7 +719,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_is-number.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_is-number.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -732,7 +732,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_is-size.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_is-size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -745,7 +745,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_modular-scale.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_modular-scale.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -758,7 +758,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_px-to-em.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_px-to-em.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -771,7 +771,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_px-to-rem.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_px-to-rem.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -784,7 +784,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_shade.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_shade.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -797,7 +797,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_strip-units.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_strip-units.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -810,7 +810,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_tint.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_tint.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -823,7 +823,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_transition-property-name.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_transition-property-name.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -836,7 +836,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/functions/_unpack.css",
+		"oAP": "/assets/css/1-tools/bourbon/functions/_unpack.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -849,7 +849,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_convert-units.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_convert-units.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -862,7 +862,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_directional-values.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_directional-values.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -875,7 +875,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_font-source-declaration.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_font-source-declaration.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -888,7 +888,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_gradient-positions-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_gradient-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -901,7 +901,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_linear-angle-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_linear-angle-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -914,7 +914,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_linear-gradient-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_linear-gradient-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -927,7 +927,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_linear-positions-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_linear-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -940,7 +940,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_linear-side-corner-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_linear-side-corner-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -953,7 +953,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_radial-arg-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_radial-arg-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -966,7 +966,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_radial-gradient-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_radial-gradient-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -979,7 +979,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_radial-positions-parser.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_radial-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -992,7 +992,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_render-gradients.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_render-gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1005,7 +1005,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_shape-size-stripper.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_shape-size-stripper.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1018,7 +1018,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/helpers/_str-to-num.css",
+		"oAP": "/assets/css/1-tools/bourbon/helpers/_str-to-num.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1031,7 +1031,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/settings/_asset-pipeline.css",
+		"oAP": "/assets/css/1-tools/bourbon/settings/_asset-pipeline.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1044,7 +1044,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/settings/_prefixer.css",
+		"oAP": "/assets/css/1-tools/bourbon/settings/_prefixer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1057,7 +1057,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/1-tools/bourbon/settings/_px-to-em.css",
+		"oAP": "/assets/css/1-tools/bourbon/settings/_px-to-em.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1070,7 +1070,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/2-basics/_body-element.css",
+		"oAP": "/assets/css/2-basics/_body-element.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1083,7 +1083,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/2-basics/_links.css",
+		"oAP": "/assets/css/2-basics/_links.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1096,7 +1096,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/2-basics/_selection-colors.css",
+		"oAP": "/assets/css/2-basics/_selection-colors.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1109,7 +1109,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/2-basics/_typography.css",
+		"oAP": "/assets/css/2-basics/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1122,7 +1122,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/3-modules/_footer.css",
+		"oAP": "/assets/css/3-modules/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1135,7 +1135,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/3-modules/_header.css",
+		"oAP": "/assets/css/3-modules/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1148,7 +1148,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/4-pages/_home.css",
+		"oAP": "/assets/css/4-pages/_home.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1159,7 +1159,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/main-min.css",
+		"oAP": "/assets/css/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1168,7 +1168,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/docs/assets/css/main.css.map",
+		"oAP": "/assets/css/main.css.map",
 		"oF": 0
 		},
 	"/assets/css/main.sass": {
@@ -1179,7 +1179,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/docs/assets/css/main.css",
+		"oAP": "/assets/css/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1188,7 +1188,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/1.svg",
+		"oAP": "/assets/img/1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1198,7 +1198,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/2.svg",
+		"oAP": "/assets/img/2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1208,7 +1208,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/bulb-icon.svg",
+		"oAP": "/assets/img/bulb-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1218,7 +1218,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/bullet.svg",
+		"oAP": "/assets/img/bullet.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1228,7 +1228,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/dollar-icon.svg",
+		"oAP": "/assets/img/dollar-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1238,7 +1238,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/facebook.svg",
+		"oAP": "/assets/img/facebook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1248,7 +1248,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/hero.svg",
+		"oAP": "/assets/img/hero.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1258,7 +1258,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/logo.svg",
+		"oAP": "/assets/img/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1268,7 +1268,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/twitter.svg",
+		"oAP": "/assets/img/twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1278,7 +1278,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/world-icon.svg",
+		"oAP": "/assets/img/world-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1288,7 +1288,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/docs/assets/img/youtube.svg",
+		"oAP": "/assets/img/youtube.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1300,7 +1300,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/functions-min.js",
+		"oAP": "/assets/js/functions-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1316,7 +1316,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
 	"/README.md": {
@@ -1329,7 +1329,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1636,7 +1636,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
-	"buildFolderActive": 1,
+	"buildFolderActive": 0,
 	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -3698,7 +3698,7 @@
 		},
 	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
-	"websiteRelativeRoot": "/docs"
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
